@@ -1,7 +1,7 @@
 # Project 1: SpaceFight
 A Web Game created by Joshua Johannsen
 
-Game: https://github.com/bsu-cs315/P1-SpaceFight
+Game: https://bsu-cs315.github.io/P1-SpaceFight/
 
 ## Project Report
 
